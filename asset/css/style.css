@@ -1,0 +1,10 @@
+.navbar {
+  color: gray;
+}
+.nav-menu {
+  display: inline;
+}
+.art {
+  border: 1px solid green;
+  padding: 10px;
+}
